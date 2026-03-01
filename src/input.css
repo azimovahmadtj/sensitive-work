@@ -1,7 +1,7 @@
 @import "tailwindcss";
 .bg-box {
     background-image: url('../src/sharifa/images/background\ \(1\).png');
-
+}
 .first-bg{
     height: 390px;
     background-image: url(./Yunus-page/Yunus-img/image.png);

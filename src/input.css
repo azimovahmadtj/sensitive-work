@@ -1,4 +1,6 @@
 @import "tailwindcss";
+.bg-box {
+    background-image: url('../src/sharifa/images/background\ \(1\).png');
 
 .first-bg{
     height: 390px;

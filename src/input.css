@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+.first-bg{
+    height: 390px;
+    background-image: url(./Yunus-page/Yunus-img/image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
